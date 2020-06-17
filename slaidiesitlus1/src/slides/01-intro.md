@@ -10,19 +10,18 @@ Tallinn 2020
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+# Miks veebiarendus on oluline
+- Internet on kättesaadav igale inimesele -> võimalus mõjutada inimesi ja maailma su ümber
+- Internet teeb innoveerimise lihtsaks -> idee ellu viimine on väga lihtne rakenduse või platvormi abil
+- Järjest rohkem on töö tegemisel olulised arvutioskused
+
+---
+![graph](https://www.webdew.com/hs-fs/hubfs/web-developer.png?width=1200&name=web-developer.png)
+
 
 ---
 
-# 🤫
-
----
-
-## Slides are written in Markdown!
+### Kuidas tehakse veebiarendust?
 
 Here's the source of the first slide:
 
