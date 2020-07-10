@@ -1,14 +1,6 @@
-Images can be embedded from the local filesystem!
 
-![xkcd on standards](./standards.png)
+## Koodi kirjutamine - proovi ise
 
-(attribution: xkcd.com)
+<iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52"></a></p>
 
----
-
-![Monkey](//i.imgur.com/PnbINJ6.gif)
-
-🌟 Star it on [GitHub](//github.com/fabe/gatsby-deck),  
-or create your own with:
-
-    gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+[Koodi kirjutamise link](https://codepen.io/adelmuursepp/pen/jOWKymO)

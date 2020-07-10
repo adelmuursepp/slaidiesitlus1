@@ -16,15 +16,27 @@ Tallinn 2020
 - Järjest rohkem on töö tegemisel olulised arvutioskused
 
 ---
-![graph](https://www.webdew.com/hs-fs/hubfs/web-developer.png?width=1200&name=web-developer.png)
+## Kiirülevaade, kuidas internet toimib
+Oletame, et on valmis esimene veebileht, tehtud HTML ja CSS abil
 
+![First website](firstwebsite-jscourse.png)
 
 ---
+Kirjutatud programm on üles laetud serverisse. Sa määrad URL-i, millele minnes laetakse vastav programm internetis olevasse arvutisse
 
-### Kuidas tehakse veebiarendust?
+<img src="computerserver.png" alt="Computer server diagram"/>
 
-Here's the source of the first slide:
+---
+Me tegeleme peamiselt Frontendiga
 
-    # Gatsby Deck
+<img src="frontendbackend.png" alt="Frontend diagram"/>
 
-    Create presentations using Gatsby & React.
+---
+BACKEND = Javascript
+
+FRONTEND = HTML + CSS
+
+<iframe height="265" style="width: 100%;" scrolling="no" title="HTML-CSS basic" src="https://codepen.io/adelmuursepp/embed/PoZaWjV?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/adelmuursepp/pen/PoZaWjV'>HTML-CSS basic</a> by Adel Müürsepp
+  (<a href='https://codepen.io/adelmuursepp'>@adelmuursepp</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>

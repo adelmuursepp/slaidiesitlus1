@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     name: `Adel Müürsepp`,
     title: `JS kursus 1`,
-    date: `July 1, 2020`,
+    date: `2020`,
   },
   plugins: [
     `gatsby-plugin-layout`,
@@ -27,6 +27,8 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 1920,
+              linkImagesToOriginal: true,
+
             },
           },
         ],
